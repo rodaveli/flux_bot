@@ -1,0 +1,8 @@
+Flask
+twilio
+firebase-admin
+requests
+uuid
+gunicorn
+fal_client
+mimetypes

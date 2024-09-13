@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Firebase service account key
+fal-whatsapp-thing-firebase-adminsdk*.json
+
+# Vercel configuration
+.vercel/
